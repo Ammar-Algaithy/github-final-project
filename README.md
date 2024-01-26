@@ -1,1 +1,1 @@
-# github-final-project
+This project/repo aims to set up a foundation for collaborative and open development practices, facilitate the adoption of Git, and establish a welcoming and well-documented environment for contributors in line with open-source principles. 
