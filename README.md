@@ -1,1 +1,7 @@
-This project/repo aims to set up a foundation for collaborative and open development practices, facilitate the adoption of Git, and establish a welcoming and well-documented environment for contributors in line with open-source principles. 
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
